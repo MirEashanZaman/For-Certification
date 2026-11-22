@@ -1,0 +1,2 @@
+Wokwi Project: NTC Thermistor with 3 Status LEDs
+Template Base: https://wokwi.com/arduino/projects/299330254810382858

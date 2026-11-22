@@ -11,7 +11,7 @@ body {
   line-height: 1.65;
 }
 
-/* Primary Color Background Banner */
+
 .hero-banner {
   background-color: #0B2D5C;
   color: #FFFFFF;
@@ -50,7 +50,7 @@ h1 {
   margin: 0;
 }
 
-/* Main Content Container */
+
 .container {
   max-width: 820px;
   margin: 32px auto;
@@ -60,7 +60,7 @@ h1 {
   box-shadow: 0 4px 18px rgba(11, 45, 92, 0.1);
 }
 
-/* Tip Cards with Secondary Background & Accent */
+
 .tip-card {
   background-color: #F4F8FC;
   border-left: 5px solid #1E6B7B;
@@ -81,7 +81,7 @@ p {
   margin: 0;
 }
 
-/* Secondary Color Callout Box */
+
 .callout-box {
   background-color: #E3F2F5;
   border: 1px solid #1E6B7B;
@@ -101,7 +101,7 @@ p {
   font-size: 16px;
 }
 
-/* Footer with Primary Color */
+
 .site-footer {
   background-color: #0B2D5C;
   padding: 20px;
